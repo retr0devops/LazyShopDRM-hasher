@@ -1,0 +1,1 @@
+# LazyShop-Hasher
