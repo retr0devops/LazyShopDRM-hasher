@@ -6,7 +6,7 @@ This algorithm was implemented based on the analysis of the LazyShop DRM machine
 
 It is used to write the base64 reference value to NSUserDefaults. (key __LS_CHECK). As it seemed earlier, it could be a private/public key encryption algorithm. However, in practice, this is a common hashing algorithm. 
 
-This algorithm also takes an active part in sending a hashed message to the scp LazyShop server.
+This algorithm also takes an active part in sending a hashed message to the custom OSCP LazyShop server.
 
 ## Hashing algorithm
 
