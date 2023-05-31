@@ -24,5 +24,4 @@ BC57636C-F717-4893-A110-41617854B24_com.zhiliaoapp.musically
 ```
 
 First part: UUID (for vendor)
-The second part: * still unknown*
-Third part: Application Bundle ID
+Second part: Application Bundle ID
