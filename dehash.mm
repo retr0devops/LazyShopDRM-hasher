@@ -19,7 +19,7 @@ static NSString * dehash_alg(NSString * arg) {
     NSMutableString *string = ((NSMutableString *(*)(id, SEL))objc_msgSend)((id)stringMutableClass, NSSelectorFromString(@"alloc"));
     string = ((NSMutableString *(*)(id, SEL))objc_msgSend)((id)string, NSSelectorFromString(@"init"));
 
-    const char * check_string = "QBCHEKCCHEQBCHERTYITACHE");
+    const char * check_string = "QBCHEKCCHEQBCHERTYITACHE";
     SEL characterAtIndexSelector = NSSelectorFromString(@"characterAtIndex:");
     if ([str length]) {
         int i = 0;
